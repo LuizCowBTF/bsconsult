@@ -1,4 +1,5 @@
 # bsconsult
-# Teste para Dev FRontEnnd na BSConsult
+# Teste para Dev FrontEnnd na BSConsult
 
 #  HTML / CSS / JAVASCRIPT
+#  luizcowbtf@gmail.com
